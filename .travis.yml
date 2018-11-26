@@ -2,7 +2,6 @@ language: c
 sudo: false # only for faster builds
 script:
   - clang -coverage -O0 HelloWorld/main.c -o HelloWorld/main
-  - ./HelloWorld/main
   - gcov HelloWorld/main.c
 
 after_success:
