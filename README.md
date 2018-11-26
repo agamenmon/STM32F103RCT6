@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/agamenmon/STM32F103RCT6.svg?branch=master)](https://travis-ci.org/agamenmon/STM32F103RCT6)
 # STM32F103RCT6
 Minimalist Integrated Development Environment
 
